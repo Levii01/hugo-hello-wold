@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/categories/base16/</loc>
+    <lastmod>2020-01-29T01:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-01-29T01:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/github/</loc>
+    <lastmod>2020-01-29T01:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
+    <lastmod>2020-01-29T01:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/hugo/</loc>
+    <lastmod>2020-01-29T01:52:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/markdown/</loc>
     <lastmod>2020-01-29T01:52:37+01:00</lastmod>
   </url>
   
@@ -23,12 +48,8 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/untagged/</loc>
+    <loc>http://example.org/tags/website/</loc>
     <lastmod>2020-01-29T01:52:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
   </url>
   
 </urlset>

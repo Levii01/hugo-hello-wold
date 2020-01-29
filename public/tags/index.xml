@@ -12,11 +12,29 @@
     
     
     <item>
-      <title>untagged</title>
-      <link>http://example.org/tags/untagged/</link>
+      <title>GitHub</title>
+      <link>http://example.org/tags/github/</link>
       <pubDate>Wed, 29 Jan 2020 01:52:37 +0100</pubDate>
       
-      <guid>http://example.org/tags/untagged/</guid>
+      <guid>http://example.org/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>http://example.org/tags/markdown/</link>
+      <pubDate>Wed, 29 Jan 2020 01:52:37 +0100</pubDate>
+      
+      <guid>http://example.org/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>http://example.org/tags/website/</link>
+      <pubDate>Wed, 29 Jan 2020 01:52:37 +0100</pubDate>
+      
+      <guid>http://example.org/tags/website/</guid>
       <description></description>
     </item>
     
